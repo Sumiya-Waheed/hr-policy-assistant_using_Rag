@@ -1,6 +1,6 @@
 streamlit
-faiss-cpu
+numpy<2
+faiss-cpu==1.11.0
 sentence-transformers
 PyMuPDF
 groq
-numpy<2
